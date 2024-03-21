@@ -3,7 +3,4 @@
 ## Awesome Github Tutorial
 
 We are Learning about how to use github and see changes live
-
-
-Additional Changes
-
+What else can we talk 
